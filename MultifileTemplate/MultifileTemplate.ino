@@ -23,6 +23,8 @@
      blue wire          P6.7
 */
 
+// added comment here 1/12/2024
+
 // Load libraries used
 #include "SimpleRSLK.h"
 #include <Servo.h>
