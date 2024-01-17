@@ -23,7 +23,7 @@
      blue wire          P6.7
 */
 
-// added comment here 1/12/2024
+// added comment here 1/17/2024
 
 // Load libraries used
 #include "SimpleRSLK.h"
