@@ -13,6 +13,7 @@
   Author: Deborah Walter
   Last revised: 11/28/2023
 
+  Cloned on 12/31/2023
 
 ***** Hardware Connections: *****
      start button       P3.0
@@ -22,8 +23,6 @@
      yellow wire        P2.3
      blue wire          P6.7
 */
-
-// added comment here 1/12/2024
 
 // Load libraries used
 #include "SimpleRSLK.h"
