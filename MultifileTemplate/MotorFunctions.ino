@@ -29,3 +29,9 @@ void forward() {
 void stop() {
     disableMotor(BOTH_MOTORS);
 }
+
+
+/* Stops robot forward: both motors disabled */
+void turn() {
+    disableMotor(BOTH_MOTORS); //fix later
+}
